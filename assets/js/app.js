@@ -3,7 +3,7 @@ import React from "react";
 const App = () => {
   return (
     <div>
-      <h1>Django React Boiler Plate!</h1>
+      <h1>Django React Webpack Scaffold!</h1>
     </div>
   );
 };
