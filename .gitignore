@@ -1,0 +1,5 @@
+.vscode
+*.pyc
+/env
+/node_modules
+webpack-stats.json
